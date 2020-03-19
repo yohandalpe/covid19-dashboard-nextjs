@@ -188,11 +188,14 @@ const Index = props => (
 );
 
 Index.getInitialProps = async function() {
+
+  // Fetch data from HPB API
   const res = await fetch(
     "http://hpb.health.gov.lk/api/get-current-statistical"
   );
   const resData = await res.json();
 
+  // Pass data to the page via props
   return {
     stats: resData.data
   };
