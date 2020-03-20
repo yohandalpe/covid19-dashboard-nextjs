@@ -1,7 +1,8 @@
 import Link from "next/link";
 
 const Header = () => (
-  <nav className="navbar navbar-expand-lg navbar-dark bg-primary">
+  <header>
+    <nav className="navbar navbar-expand-lg navbar-dark bg-primary">
     <a className="navbar-brand" href="/">
       COVID-19 Dashboard
     </a>
@@ -31,6 +32,24 @@ const Header = () => (
       </ul>
     </div>
   </nav>
+  <div className="alert alert-dark alert-dismissible fade show" role="alert">
+  <strong>Notice:</strong> Please refresh the page if you get "An unexpected
+  error has occurred." message.
+  <button
+    type="button"
+    className="close"
+    data-dismiss="alert"
+    aria-label="Close"
+  >
+    <span aria-hidden="true">&times;</span>
+  </button>
+</div>
+<style jsx>{`
+  .alert {
+    border-radius: 0;
+  }
+`}</style>
+</header>
 );
 
 export default Header;

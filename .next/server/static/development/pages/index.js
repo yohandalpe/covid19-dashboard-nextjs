@@ -102,108 +102,154 @@ module.exports =
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! next/link */ "./node_modules/next/link.js");
-/* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var styled_jsx_style__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! styled-jsx/style */ "styled-jsx/style");
+/* harmony import */ var styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "react");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! next/link */ "./node_modules/next/link.js");
+/* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_2__);
 var _jsxFileName = "/Users/yohandalpatadu/Projects/github/covid19-dashboard-nextjs/components/Header.js";
 
-var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
+
+var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
 
-const Header = () => __jsx("nav", {
-  className: "navbar navbar-expand-lg navbar-dark bg-primary",
+const Header = () => __jsx("header", {
+  className: "jsx-4151777859",
   __source: {
     fileName: _jsxFileName,
     lineNumber: 4
   },
   __self: undefined
-}, __jsx("a", {
-  className: "navbar-brand",
-  href: "/",
+}, __jsx("nav", {
+  className: "jsx-4151777859" + " " + "navbar navbar-expand-lg navbar-dark bg-primary",
   __source: {
     fileName: _jsxFileName,
     lineNumber: 5
   },
   __self: undefined
+}, __jsx("a", {
+  href: "/",
+  className: "jsx-4151777859" + " " + "navbar-brand",
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 6
+  },
+  __self: undefined
 }, "COVID-19 Dashboard"), __jsx("button", {
-  className: "navbar-toggler",
   type: "button",
   "data-toggle": "collapse",
   "data-target": "#navbarNav",
   "aria-controls": "navbarNav",
   "aria-expanded": "false",
   "aria-label": "Toggle navigation",
+  className: "jsx-4151777859" + " " + "navbar-toggler",
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 8
+    lineNumber: 9
   },
   __self: undefined
 }, __jsx("span", {
-  className: "navbar-toggler-icon",
+  className: "jsx-4151777859" + " " + "navbar-toggler-icon",
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 17
+    lineNumber: 18
   },
   __self: undefined
 })), __jsx("div", {
-  className: "collapse navbar-collapse",
   id: "navbarNav",
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 19
-  },
-  __self: undefined
-}, __jsx("ul", {
-  className: "navbar-nav",
+  className: "jsx-4151777859" + " " + "collapse navbar-collapse",
   __source: {
     fileName: _jsxFileName,
     lineNumber: 20
   },
   __self: undefined
-}, __jsx("li", {
-  className: "nav-item",
+}, __jsx("ul", {
+  className: "jsx-4151777859" + " " + "navbar-nav",
   __source: {
     fileName: _jsxFileName,
     lineNumber: 21
   },
   __self: undefined
-}, __jsx(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
-  href: "/sri-lanka",
+}, __jsx("li", {
+  className: "jsx-4151777859" + " " + "nav-item",
   __source: {
     fileName: _jsxFileName,
     lineNumber: 22
   },
   __self: undefined
-}, __jsx("a", {
-  className: "nav-link",
+}, __jsx(next_link__WEBPACK_IMPORTED_MODULE_2___default.a, {
+  href: "/sri-lanka",
   __source: {
     fileName: _jsxFileName,
     lineNumber: 23
   },
   __self: undefined
-}, "Sri Lanka"))), __jsx("li", {
-  className: "nav-item",
+}, __jsx("a", {
+  className: "jsx-4151777859" + " " + "nav-link",
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 26
+    lineNumber: 24
   },
   __self: undefined
-}, __jsx(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
-  href: "/japan",
+}, "Sri Lanka"))), __jsx("li", {
+  className: "jsx-4151777859" + " " + "nav-item",
   __source: {
     fileName: _jsxFileName,
     lineNumber: 27
   },
   __self: undefined
-}, __jsx("a", {
-  className: "nav-link",
+}, __jsx(next_link__WEBPACK_IMPORTED_MODULE_2___default.a, {
+  href: "/japan",
   __source: {
     fileName: _jsxFileName,
     lineNumber: 28
   },
   __self: undefined
-}, "Japan"))))));
+}, __jsx("a", {
+  className: "jsx-4151777859" + " " + "nav-link",
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 29
+  },
+  __self: undefined
+}, "Japan")))))), __jsx("div", {
+  role: "alert",
+  className: "jsx-4151777859" + " " + "alert alert-dark alert-dismissible fade show",
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 35
+  },
+  __self: undefined
+}, __jsx("strong", {
+  className: "jsx-4151777859",
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 36
+  },
+  __self: undefined
+}, "Notice:"), " Please refresh the page if you get \"An unexpected error has occurred.\" message.", __jsx("button", {
+  type: "button",
+  "data-dismiss": "alert",
+  "aria-label": "Close",
+  className: "jsx-4151777859" + " " + "close",
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 38
+  },
+  __self: undefined
+}, __jsx("span", {
+  "aria-hidden": "true",
+  className: "jsx-4151777859",
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 44
+  },
+  __self: undefined
+}, "\xD7"))), __jsx(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a, {
+  id: "4151777859",
+  __self: undefined
+}, ".alert.jsx-4151777859{border-radius:0;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy95b2hhbmRhbHBhdGFkdS9Qcm9qZWN0cy9naXRodWIvY292aWQxOS1kYXNoYm9hcmQtbmV4dGpzL2NvbXBvbmVudHMvSGVhZGVyLmpzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQThDWSxBQUdxQixnQkFDbEIiLCJmaWxlIjoiL1VzZXJzL3lvaGFuZGFscGF0YWR1L1Byb2plY3RzL2dpdGh1Yi9jb3ZpZDE5LWRhc2hib2FyZC1uZXh0anMvY29tcG9uZW50cy9IZWFkZXIuanMiLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgTGluayBmcm9tIFwibmV4dC9saW5rXCI7XG5cbmNvbnN0IEhlYWRlciA9ICgpID0+IChcbiAgPGhlYWRlcj5cbiAgICA8bmF2IGNsYXNzTmFtZT1cIm5hdmJhciBuYXZiYXItZXhwYW5kLWxnIG5hdmJhci1kYXJrIGJnLXByaW1hcnlcIj5cbiAgICA8YSBjbGFzc05hbWU9XCJuYXZiYXItYnJhbmRcIiBocmVmPVwiL1wiPlxuICAgICAgQ09WSUQtMTkgRGFzaGJvYXJkXG4gICAgPC9hPlxuICAgIDxidXR0b25cbiAgICAgIGNsYXNzTmFtZT1cIm5hdmJhci10b2dnbGVyXCJcbiAgICAgIHR5cGU9XCJidXR0b25cIlxuICAgICAgZGF0YS10b2dnbGU9XCJjb2xsYXBzZVwiXG4gICAgICBkYXRhLXRhcmdldD1cIiNuYXZiYXJOYXZcIlxuICAgICAgYXJpYS1jb250cm9scz1cIm5hdmJhck5hdlwiXG4gICAgICBhcmlhLWV4cGFuZGVkPVwiZmFsc2VcIlxuICAgICAgYXJpYS1sYWJlbD1cIlRvZ2dsZSBuYXZpZ2F0aW9uXCJcbiAgICA+XG4gICAgICA8c3BhbiBjbGFzc05hbWU9XCJuYXZiYXItdG9nZ2xlci1pY29uXCI+PC9zcGFuPlxuICAgIDwvYnV0dG9uPlxuICAgIDxkaXYgY2xhc3NOYW1lPVwiY29sbGFwc2UgbmF2YmFyLWNvbGxhcHNlXCIgaWQ9XCJuYXZiYXJOYXZcIj5cbiAgICAgIDx1bCBjbGFzc05hbWU9XCJuYXZiYXItbmF2XCI+XG4gICAgICAgIDxsaSBjbGFzc05hbWU9XCJuYXYtaXRlbVwiPlxuICAgICAgICAgIDxMaW5rIGhyZWY9XCIvc3JpLWxhbmthXCI+XG4gICAgICAgICAgICA8YSBjbGFzc05hbWU9XCJuYXYtbGlua1wiPlNyaSBMYW5rYTwvYT5cbiAgICAgICAgICA8L0xpbms+XG4gICAgICAgIDwvbGk+XG4gICAgICAgIDxsaSBjbGFzc05hbWU9XCJuYXYtaXRlbVwiPlxuICAgICAgICAgIDxMaW5rIGhyZWY9XCIvamFwYW5cIj5cbiAgICAgICAgICAgIDxhIGNsYXNzTmFtZT1cIm5hdi1saW5rXCI+SmFwYW48L2E+XG4gICAgICAgICAgPC9MaW5rPlxuICAgICAgICA8L2xpPlxuICAgICAgPC91bD5cbiAgICA8L2Rpdj5cbiAgPC9uYXY+XG4gIDxkaXYgY2xhc3NOYW1lPVwiYWxlcnQgYWxlcnQtZGFyayBhbGVydC1kaXNtaXNzaWJsZSBmYWRlIHNob3dcIiByb2xlPVwiYWxlcnRcIj5cbiAgPHN0cm9uZz5Ob3RpY2U6PC9zdHJvbmc+IFBsZWFzZSByZWZyZXNoIHRoZSBwYWdlIGlmIHlvdSBnZXQgXCJBbiB1bmV4cGVjdGVkXG4gIGVycm9yIGhhcyBvY2N1cnJlZC5cIiBtZXNzYWdlLlxuICA8YnV0dG9uXG4gICAgdHlwZT1cImJ1dHRvblwiXG4gICAgY2xhc3NOYW1lPVwiY2xvc2VcIlxuICAgIGRhdGEtZGlzbWlzcz1cImFsZXJ0XCJcbiAgICBhcmlhLWxhYmVsPVwiQ2xvc2VcIlxuICA+XG4gICAgPHNwYW4gYXJpYS1oaWRkZW49XCJ0cnVlXCI+JnRpbWVzOzwvc3Bhbj5cbiAgPC9idXR0b24+XG48L2Rpdj5cbjxzdHlsZSBqc3g+e2BcbiAgLmFsZXJ0IHtcbiAgICBib3JkZXItcmFkaXVzOiAwO1xuICB9XG5gfTwvc3R5bGU+XG48L2hlYWRlcj5cbik7XG5cbmV4cG9ydCBkZWZhdWx0IEhlYWRlcjtcbiJdfQ== */\n/*@ sourceURL=/Users/yohandalpatadu/Projects/github/covid19-dashboard-nextjs/components/Header.js */"));
 
 /* harmony default export */ __webpack_exports__["default"] = (Header);
 
@@ -2976,6 +3022,17 @@ module.exports = require("react-number-format");
 /***/ (function(module, exports) {
 
 module.exports = require("reactstrap");
+
+/***/ }),
+
+/***/ "styled-jsx/style":
+/*!***********************************!*\
+  !*** external "styled-jsx/style" ***!
+  \***********************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = require("styled-jsx/style");
 
 /***/ }),
 
