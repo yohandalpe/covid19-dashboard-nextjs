@@ -2,7 +2,7 @@ import Link from "next/link";
 
 const Header = () => (
   <nav className="navbar navbar-expand-lg navbar-dark bg-primary">
-    <a className="navbar-brand" href="/">
+    <a className="navbar-brand">
       COVID-19 Dashboard
     </a>
     <button
@@ -19,7 +19,7 @@ const Header = () => (
     <div className="collapse navbar-collapse" id="navbarNav">
       <ul className="navbar-nav">
         <li className="nav-item">
-          <Link href="/sri-lanka">
+          <Link href="/">
             <a className="nav-link">Sri Lanka</a>
           </Link>
         </li>
