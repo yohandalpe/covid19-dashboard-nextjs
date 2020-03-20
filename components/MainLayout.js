@@ -1,3 +1,4 @@
+import Header from "./Header"
 import Head from 'next/head'
 import { Container } from 'reactstrap'
 
@@ -24,8 +25,11 @@ const Layout = props => (
 
       gtag('config', 'G-MKRT6KQS18');`}}/>
     </Head>
+    <Header />
     <Container>
-      <div style={layoutStyle}>{props.children}</div>
+      <div style={layoutStyle}>
+      {props.children}
+      </div>
     </Container>
   </div>
 );
