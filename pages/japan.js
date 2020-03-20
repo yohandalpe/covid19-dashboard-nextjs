@@ -199,7 +199,7 @@ const Index = props => (
 );
 
 Index.getInitialProps = async function() {
-  // Fetch data from HPB API
+  // Fetch data from the JSON
   const res = await fetch(
     "https://covid19japan.s3.ap-northeast-1.amazonaws.com/data.json"
   );
