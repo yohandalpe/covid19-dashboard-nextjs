@@ -4,10 +4,10 @@ import NumberFormat from 'react-number-format';
 
 const Index = props => (
   <Layout>
-    <h1>COVID-19 Situation Report</h1>
+    <h1>COVID-19 Situation Report in Sri Lanka</h1>
     <h4>As at {props.stats.update_date_time}</h4>
     <hr></hr>
-    <h2 className="my-3">Local (Sri Lanka)</h2>
+    <h2 className="my-3">Total</h2>
     <div className="row">
       <div className="col-sm-4">
         <div className="card mb-3 border-info">
@@ -55,63 +55,6 @@ const Index = props => (
         <div className="card mb-3 border-danger">
           <div className="card-body text-danger">
             <h3 className="card-title"><NumberFormat value={props.stats.local_new_deaths} displayType={'text'} thousandSeparator={true} prefix={''} /></h3>
-            <p className="card-text">
-              New Deaths
-            </p>
-          </div>
-        </div>
-      </div>
-    </div>
-   
-
-    <h2 className="my-3">Global</h2>
-    <div className="row">
-      <div className="col-sm-4">
-        <div className="card mb-3 border-info">
-          <div className="card-body text-info">
-            <h3 className="card-title"><NumberFormat value={props.stats.global_new_cases} displayType={'text'} thousandSeparator={true} prefix={''} /></h3>
-            <p className="card-text">
-              New Cases
-            </p>
-          </div>
-        </div>
-      </div>
-      <div className="col-sm-4">
-        <div className="card mb-3 border-secondary">
-          <div className="card-body text-secondary">
-            <h3 className="card-title"><NumberFormat value={props.stats.global_total_cases} displayType={'text'} thousandSeparator={true} prefix={''} /></h3>
-            <p className="card-text">
-              Total Cases
-            </p>
-          </div>
-        </div>
-      </div>
-      <div className="col-sm-4">
-        <div className="card mb-3 border-success">
-          <div className="card-body text-success">
-            <h3 className="card-title"><NumberFormat value={props.stats.global_recovered} displayType={'text'} thousandSeparator={true} prefix={''} /></h3>
-            <p className="card-text">
-              Recovered
-            </p>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div className="row">
-      <div className="col-sm-4">
-        <div className="card mb-3 border-dark">
-          <div className="card-body text-dark">
-            <h3 className="card-title"><NumberFormat value={props.stats.global_deaths} displayType={'text'} thousandSeparator={true} prefix={''} /></h3>
-            <p className="card-text">
-              Deaths
-            </p>
-          </div>
-        </div>
-      </div>
-      <div className="col-sm-4">
-        <div className="card mb-3 border-danger">
-          <div className="card-body text-danger">
-            <h3 className="card-title"><NumberFormat value={props.stats.global_new_deaths} displayType={'text'} thousandSeparator={true} prefix={''} /></h3>
             <p className="card-text">
               New Deaths
             </p>

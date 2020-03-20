@@ -23,14 +23,14 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
 var Header = function Header() {
   return __jsx("header", {
-    className: "jsx-4151777859",
+    className: "jsx-2466463171",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 4
     },
     __self: this
   }, __jsx("nav", {
-    className: "jsx-4151777859" + " " + "navbar navbar-expand-lg navbar-dark bg-primary",
+    className: "jsx-2466463171" + " " + "navbar navbar-expand-lg navbar-dark bg-primary",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 5
@@ -38,7 +38,7 @@ var Header = function Header() {
     __self: this
   }, __jsx("a", {
     href: "/",
-    className: "jsx-4151777859" + " " + "navbar-brand",
+    className: "jsx-2466463171" + " " + "navbar-brand",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 6
@@ -51,14 +51,14 @@ var Header = function Header() {
     "aria-controls": "navbarNav",
     "aria-expanded": "false",
     "aria-label": "Toggle navigation",
-    className: "jsx-4151777859" + " " + "navbar-toggler",
+    className: "jsx-2466463171" + " " + "navbar-toggler",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 9
     },
     __self: this
   }, __jsx("span", {
-    className: "jsx-4151777859" + " " + "navbar-toggler-icon",
+    className: "jsx-2466463171" + " " + "navbar-toggler-icon",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 18
@@ -66,42 +66,42 @@ var Header = function Header() {
     __self: this
   })), __jsx("div", {
     id: "navbarNav",
-    className: "jsx-4151777859" + " " + "collapse navbar-collapse",
+    className: "jsx-2466463171" + " " + "collapse navbar-collapse",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 20
     },
     __self: this
   }, __jsx("ul", {
-    className: "jsx-4151777859" + " " + "navbar-nav",
+    className: "jsx-2466463171" + " " + "navbar-nav",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 21
     },
     __self: this
   }, __jsx("li", {
-    className: "jsx-4151777859" + " " + "nav-item",
+    className: "jsx-2466463171" + " " + "nav-item",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 22
     },
     __self: this
   }, __jsx(next_link__WEBPACK_IMPORTED_MODULE_2___default.a, {
-    href: "/sri-lanka",
+    href: "/italy",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 23
     },
     __self: this
   }, __jsx("a", {
-    className: "jsx-4151777859" + " " + "nav-link",
+    className: "jsx-2466463171" + " " + "nav-link",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 24
     },
     __self: this
-  }, "Sri Lanka"))), __jsx("li", {
-    className: "jsx-4151777859" + " " + "nav-item",
+  }, "Italy"))), __jsx("li", {
+    className: "jsx-2466463171" + " " + "nav-item",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 27
@@ -115,49 +115,70 @@ var Header = function Header() {
     },
     __self: this
   }, __jsx("a", {
-    className: "jsx-4151777859" + " " + "nav-link",
+    className: "jsx-2466463171" + " " + "nav-link",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 29
     },
     __self: this
-  }, "Japan")))))), __jsx("div", {
-    role: "alert",
-    className: "jsx-4151777859" + " " + "alert alert-dark alert-dismissible fade show",
+  }, "Japan"))), __jsx("li", {
+    className: "jsx-2466463171" + " " + "nav-item",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 35
+      lineNumber: 32
+    },
+    __self: this
+  }, __jsx(next_link__WEBPACK_IMPORTED_MODULE_2___default.a, {
+    href: "/sri-lanka",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 33
+    },
+    __self: this
+  }, __jsx("a", {
+    className: "jsx-2466463171" + " " + "nav-link",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 34
+    },
+    __self: this
+  }, "Sri Lanka")))))), __jsx("div", {
+    role: "alert",
+    className: "jsx-2466463171" + " " + "alert alert-dark alert-dismissible fade show",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 40
     },
     __self: this
   }, __jsx("strong", {
-    className: "jsx-4151777859",
+    className: "jsx-2466463171",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 36
+      lineNumber: 41
     },
     __self: this
   }, "Notice:"), " Please refresh the page if you get \"An unexpected error has occurred.\" message.", __jsx("button", {
     type: "button",
     "data-dismiss": "alert",
     "aria-label": "Close",
-    className: "jsx-4151777859" + " " + "close",
+    className: "jsx-2466463171" + " " + "close",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 38
+      lineNumber: 43
     },
     __self: this
   }, __jsx("span", {
     "aria-hidden": "true",
-    className: "jsx-4151777859",
+    className: "jsx-2466463171",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 44
+      lineNumber: 49
     },
     __self: this
   }, "\xD7"))), __jsx(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a, {
-    id: "4151777859",
+    id: "2466463171",
     __self: this
-  }, ".alert.jsx-4151777859{border-radius:0;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy95b2hhbmRhbHBhdGFkdS9Qcm9qZWN0cy9naXRodWIvY292aWQxOS1kYXNoYm9hcmQtbmV4dGpzL2NvbXBvbmVudHMvSGVhZGVyLmpzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQThDWSxBQUdxQixnQkFDbEIiLCJmaWxlIjoiL1VzZXJzL3lvaGFuZGFscGF0YWR1L1Byb2plY3RzL2dpdGh1Yi9jb3ZpZDE5LWRhc2hib2FyZC1uZXh0anMvY29tcG9uZW50cy9IZWFkZXIuanMiLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgTGluayBmcm9tIFwibmV4dC9saW5rXCI7XG5cbmNvbnN0IEhlYWRlciA9ICgpID0+IChcbiAgPGhlYWRlcj5cbiAgICA8bmF2IGNsYXNzTmFtZT1cIm5hdmJhciBuYXZiYXItZXhwYW5kLWxnIG5hdmJhci1kYXJrIGJnLXByaW1hcnlcIj5cbiAgICA8YSBjbGFzc05hbWU9XCJuYXZiYXItYnJhbmRcIiBocmVmPVwiL1wiPlxuICAgICAgQ09WSUQtMTkgRGFzaGJvYXJkXG4gICAgPC9hPlxuICAgIDxidXR0b25cbiAgICAgIGNsYXNzTmFtZT1cIm5hdmJhci10b2dnbGVyXCJcbiAgICAgIHR5cGU9XCJidXR0b25cIlxuICAgICAgZGF0YS10b2dnbGU9XCJjb2xsYXBzZVwiXG4gICAgICBkYXRhLXRhcmdldD1cIiNuYXZiYXJOYXZcIlxuICAgICAgYXJpYS1jb250cm9scz1cIm5hdmJhck5hdlwiXG4gICAgICBhcmlhLWV4cGFuZGVkPVwiZmFsc2VcIlxuICAgICAgYXJpYS1sYWJlbD1cIlRvZ2dsZSBuYXZpZ2F0aW9uXCJcbiAgICA+XG4gICAgICA8c3BhbiBjbGFzc05hbWU9XCJuYXZiYXItdG9nZ2xlci1pY29uXCI+PC9zcGFuPlxuICAgIDwvYnV0dG9uPlxuICAgIDxkaXYgY2xhc3NOYW1lPVwiY29sbGFwc2UgbmF2YmFyLWNvbGxhcHNlXCIgaWQ9XCJuYXZiYXJOYXZcIj5cbiAgICAgIDx1bCBjbGFzc05hbWU9XCJuYXZiYXItbmF2XCI+XG4gICAgICAgIDxsaSBjbGFzc05hbWU9XCJuYXYtaXRlbVwiPlxuICAgICAgICAgIDxMaW5rIGhyZWY9XCIvc3JpLWxhbmthXCI+XG4gICAgICAgICAgICA8YSBjbGFzc05hbWU9XCJuYXYtbGlua1wiPlNyaSBMYW5rYTwvYT5cbiAgICAgICAgICA8L0xpbms+XG4gICAgICAgIDwvbGk+XG4gICAgICAgIDxsaSBjbGFzc05hbWU9XCJuYXYtaXRlbVwiPlxuICAgICAgICAgIDxMaW5rIGhyZWY9XCIvamFwYW5cIj5cbiAgICAgICAgICAgIDxhIGNsYXNzTmFtZT1cIm5hdi1saW5rXCI+SmFwYW48L2E+XG4gICAgICAgICAgPC9MaW5rPlxuICAgICAgICA8L2xpPlxuICAgICAgPC91bD5cbiAgICA8L2Rpdj5cbiAgPC9uYXY+XG4gIDxkaXYgY2xhc3NOYW1lPVwiYWxlcnQgYWxlcnQtZGFyayBhbGVydC1kaXNtaXNzaWJsZSBmYWRlIHNob3dcIiByb2xlPVwiYWxlcnRcIj5cbiAgPHN0cm9uZz5Ob3RpY2U6PC9zdHJvbmc+IFBsZWFzZSByZWZyZXNoIHRoZSBwYWdlIGlmIHlvdSBnZXQgXCJBbiB1bmV4cGVjdGVkXG4gIGVycm9yIGhhcyBvY2N1cnJlZC5cIiBtZXNzYWdlLlxuICA8YnV0dG9uXG4gICAgdHlwZT1cImJ1dHRvblwiXG4gICAgY2xhc3NOYW1lPVwiY2xvc2VcIlxuICAgIGRhdGEtZGlzbWlzcz1cImFsZXJ0XCJcbiAgICBhcmlhLWxhYmVsPVwiQ2xvc2VcIlxuICA+XG4gICAgPHNwYW4gYXJpYS1oaWRkZW49XCJ0cnVlXCI+JnRpbWVzOzwvc3Bhbj5cbiAgPC9idXR0b24+XG48L2Rpdj5cbjxzdHlsZSBqc3g+e2BcbiAgLmFsZXJ0IHtcbiAgICBib3JkZXItcmFkaXVzOiAwO1xuICB9XG5gfTwvc3R5bGU+XG48L2hlYWRlcj5cbik7XG5cbmV4cG9ydCBkZWZhdWx0IEhlYWRlcjtcbiJdfQ== */\n/*@ sourceURL=/Users/yohandalpatadu/Projects/github/covid19-dashboard-nextjs/components/Header.js */"));
+  }, ".alert.jsx-2466463171{border-radius:0;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy95b2hhbmRhbHBhdGFkdS9Qcm9qZWN0cy9naXRodWIvY292aWQxOS1kYXNoYm9hcmQtbmV4dGpzL2NvbXBvbmVudHMvSGVhZGVyLmpzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQW1EZ0IsQUFHeUIsZ0JBQ2xCIiwiZmlsZSI6Ii9Vc2Vycy95b2hhbmRhbHBhdGFkdS9Qcm9qZWN0cy9naXRodWIvY292aWQxOS1kYXNoYm9hcmQtbmV4dGpzL2NvbXBvbmVudHMvSGVhZGVyLmpzIiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IExpbmsgZnJvbSBcIm5leHQvbGlua1wiO1xuXG5jb25zdCBIZWFkZXIgPSAoKSA9PiAoXG4gIDxoZWFkZXI+XG4gICAgPG5hdiBjbGFzc05hbWU9XCJuYXZiYXIgbmF2YmFyLWV4cGFuZC1sZyBuYXZiYXItZGFyayBiZy1wcmltYXJ5XCI+XG4gICAgICA8YSBjbGFzc05hbWU9XCJuYXZiYXItYnJhbmRcIiBocmVmPVwiL1wiPlxuICAgICAgICBDT1ZJRC0xOSBEYXNoYm9hcmRcbiAgICAgIDwvYT5cbiAgICAgIDxidXR0b25cbiAgICAgICAgY2xhc3NOYW1lPVwibmF2YmFyLXRvZ2dsZXJcIlxuICAgICAgICB0eXBlPVwiYnV0dG9uXCJcbiAgICAgICAgZGF0YS10b2dnbGU9XCJjb2xsYXBzZVwiXG4gICAgICAgIGRhdGEtdGFyZ2V0PVwiI25hdmJhck5hdlwiXG4gICAgICAgIGFyaWEtY29udHJvbHM9XCJuYXZiYXJOYXZcIlxuICAgICAgICBhcmlhLWV4cGFuZGVkPVwiZmFsc2VcIlxuICAgICAgICBhcmlhLWxhYmVsPVwiVG9nZ2xlIG5hdmlnYXRpb25cIlxuICAgICAgPlxuICAgICAgICA8c3BhbiBjbGFzc05hbWU9XCJuYXZiYXItdG9nZ2xlci1pY29uXCI+PC9zcGFuPlxuICAgICAgPC9idXR0b24+XG4gICAgICA8ZGl2IGNsYXNzTmFtZT1cImNvbGxhcHNlIG5hdmJhci1jb2xsYXBzZVwiIGlkPVwibmF2YmFyTmF2XCI+XG4gICAgICAgIDx1bCBjbGFzc05hbWU9XCJuYXZiYXItbmF2XCI+XG4gICAgICAgICAgPGxpIGNsYXNzTmFtZT1cIm5hdi1pdGVtXCI+XG4gICAgICAgICAgICA8TGluayBocmVmPVwiL2l0YWx5XCI+XG4gICAgICAgICAgICAgIDxhIGNsYXNzTmFtZT1cIm5hdi1saW5rXCI+SXRhbHk8L2E+XG4gICAgICAgICAgICA8L0xpbms+XG4gICAgICAgICAgPC9saT5cbiAgICAgICAgICA8bGkgY2xhc3NOYW1lPVwibmF2LWl0ZW1cIj5cbiAgICAgICAgICAgIDxMaW5rIGhyZWY9XCIvamFwYW5cIj5cbiAgICAgICAgICAgICAgPGEgY2xhc3NOYW1lPVwibmF2LWxpbmtcIj5KYXBhbjwvYT5cbiAgICAgICAgICAgIDwvTGluaz5cbiAgICAgICAgICA8L2xpPlxuICAgICAgICAgIDxsaSBjbGFzc05hbWU9XCJuYXYtaXRlbVwiPlxuICAgICAgICAgICAgPExpbmsgaHJlZj1cIi9zcmktbGFua2FcIj5cbiAgICAgICAgICAgICAgPGEgY2xhc3NOYW1lPVwibmF2LWxpbmtcIj5TcmkgTGFua2E8L2E+XG4gICAgICAgICAgICA8L0xpbms+XG4gICAgICAgICAgPC9saT5cbiAgICAgICAgPC91bD5cbiAgICAgIDwvZGl2PlxuICAgIDwvbmF2PlxuICAgIDxkaXYgY2xhc3NOYW1lPVwiYWxlcnQgYWxlcnQtZGFyayBhbGVydC1kaXNtaXNzaWJsZSBmYWRlIHNob3dcIiByb2xlPVwiYWxlcnRcIj5cbiAgICAgIDxzdHJvbmc+Tm90aWNlOjwvc3Ryb25nPiBQbGVhc2UgcmVmcmVzaCB0aGUgcGFnZSBpZiB5b3UgZ2V0IFwiQW4gdW5leHBlY3RlZFxuICAgICAgZXJyb3IgaGFzIG9jY3VycmVkLlwiIG1lc3NhZ2UuXG4gICAgICA8YnV0dG9uXG4gICAgICAgIHR5cGU9XCJidXR0b25cIlxuICAgICAgICBjbGFzc05hbWU9XCJjbG9zZVwiXG4gICAgICAgIGRhdGEtZGlzbWlzcz1cImFsZXJ0XCJcbiAgICAgICAgYXJpYS1sYWJlbD1cIkNsb3NlXCJcbiAgICAgID5cbiAgICAgICAgPHNwYW4gYXJpYS1oaWRkZW49XCJ0cnVlXCI+JnRpbWVzOzwvc3Bhbj5cbiAgICAgIDwvYnV0dG9uPlxuICAgIDwvZGl2PlxuICAgIDxzdHlsZSBqc3g+e2BcbiAgICAgIC5hbGVydCB7XG4gICAgICAgIGJvcmRlci1yYWRpdXM6IDA7XG4gICAgICB9XG4gICAgYH08L3N0eWxlPlxuICA8L2hlYWRlcj5cbik7XG5cbmV4cG9ydCBkZWZhdWx0IEhlYWRlcjtcbiJdfQ== */\n/*@ sourceURL=/Users/yohandalpatadu/Projects/github/covid19-dashboard-nextjs/components/Header.js */"));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (Header);
@@ -257,7 +278,7 @@ var Layout = function Layout(props) {
     __self: this
   }), __jsx("script", {
     async: true,
-    src: "https://www.googletagmanager.com/gtag/js?id=G-MKRT6KQS18",
+    src: "https://www.googletagmanager.com/gtag/js?id=G-LRJS5H4YVR",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 20
@@ -265,7 +286,7 @@ var Layout = function Layout(props) {
     __self: this
   }), __jsx("script", {
     dangerouslySetInnerHTML: {
-      __html: "\n      window.dataLayer = window.dataLayer || [];\n      function gtag(){dataLayer.push(arguments)}\n      gtag('js', new Date());\n\n      gtag('config', 'G-MKRT6KQS18');"
+      __html: "\n      window.dataLayer = window.dataLayer || [];\n      function gtag(){dataLayer.push(arguments)}\n      gtag('js', new Date());\n\n      gtag('config', 'G-LRJS5H4YVR');"
     },
     __source: {
       fileName: _jsxFileName,
@@ -22938,6 +22959,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var isomorphic_unfetch__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! isomorphic-unfetch */ "./node_modules/next/dist/build/polyfills/fetch/index.js");
 /* harmony import */ var isomorphic_unfetch__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(isomorphic_unfetch__WEBPACK_IMPORTED_MODULE_3__);
 /* harmony import */ var react_number_format__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! react-number-format */ "./node_modules/react-number-format/dist/react-number-format.es.js");
+/* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! next/link */ "./node_modules/next/link.js");
+/* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_5__);
 
 var _jsxFileName = "/Users/yohandalpatadu/Projects/github/covid19-dashboard-nextjs/pages/index.js";
 
@@ -22946,188 +22969,137 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
 
 
+
 var Index = function Index(props) {
   return __jsx(_components_MainLayout__WEBPACK_IMPORTED_MODULE_2__["default"], {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 6
-    },
-    __self: this
-  }, __jsx("h1", {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 7
     },
     __self: this
-  }, "COVID-19 Situation Report"), __jsx("h4", {
+  }, __jsx("h1", {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 8
     },
     __self: this
-  }, "As at ", props.stats.update_date_time), __jsx("hr", {
+  }, "COVID-19 Situation Report - Global"), __jsx("h4", {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 9
+    },
+    __self: this
+  }, "As at ", props.stats.update_date_time), __jsx("hr", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 10
     },
     __self: this
   }), __jsx("h2", {
     className: "my-3",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 10
-    },
-    __self: this
-  }, "Local (Sri Lanka)"), __jsx("div", {
-    className: "row",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 11
-    },
-    __self: this
-  }, __jsx("div", {
-    className: "col-sm-4",
-    __source: {
-      fileName: _jsxFileName,
       lineNumber: 12
     },
     __self: this
-  }, __jsx("div", {
-    className: "card mb-3 border-info",
+  }, "Total"), __jsx("div", {
+    className: "row",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 13
     },
     __self: this
   }, __jsx("div", {
-    className: "card-body text-info",
+    className: "col-sm-4",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 14
+    },
+    __self: this
+  }, __jsx("div", {
+    className: "card mb-3 border-info",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 15
+    },
+    __self: this
+  }, __jsx("div", {
+    className: "card-body text-info",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 16
     },
     __self: this
   }, __jsx("h3", {
     className: "card-title",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 15
+      lineNumber: 17
     },
     __self: this
   }, __jsx(react_number_format__WEBPACK_IMPORTED_MODULE_4__["default"], {
-    value: props.stats.local_new_cases,
-    displayType: 'text',
+    value: props.stats.global_new_cases,
+    displayType: "text",
     thousandSeparator: true,
-    prefix: '',
+    prefix: "",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 15
+      lineNumber: 18
     },
     __self: this
   })), __jsx("p", {
     className: "card-text",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 16
+      lineNumber: 25
     },
     __self: this
   }, "New Cases")))), __jsx("div", {
     className: "col-sm-4",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 22
+      lineNumber: 29
     },
     __self: this
   }, __jsx("div", {
     className: "card mb-3 border-secondary",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 23
+      lineNumber: 30
     },
     __self: this
   }, __jsx("div", {
     className: "card-body text-secondary",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 24
+      lineNumber: 31
     },
     __self: this
   }, __jsx("h3", {
     className: "card-title",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 25
-    },
-    __self: this
-  }, __jsx(react_number_format__WEBPACK_IMPORTED_MODULE_4__["default"], {
-    value: props.stats.local_total_cases,
-    displayType: 'text',
-    thousandSeparator: true,
-    prefix: '',
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 25
-    },
-    __self: this
-  })), __jsx("p", {
-    className: "card-text",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 26
-    },
-    __self: this
-  }, "Total Cases")))), __jsx("div", {
-    className: "col-sm-4",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 32
     },
     __self: this
-  }, __jsx("div", {
-    className: "card mb-3 border-success",
+  }, __jsx(react_number_format__WEBPACK_IMPORTED_MODULE_4__["default"], {
+    value: props.stats.global_total_cases,
+    displayType: "text",
+    thousandSeparator: true,
+    prefix: "",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 33
-    },
-    __self: this
-  }, __jsx("div", {
-    className: "card-body text-success",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 34
-    },
-    __self: this
-  }, __jsx("h3", {
-    className: "card-title",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 35
-    },
-    __self: this
-  }, __jsx(react_number_format__WEBPACK_IMPORTED_MODULE_4__["default"], {
-    value: props.stats.local_recovered,
-    displayType: 'text',
-    thousandSeparator: true,
-    prefix: '',
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 35
     },
     __self: this
   })), __jsx("p", {
     className: "card-text",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 36
+      lineNumber: 40
     },
     __self: this
-  }, "Recovered"))))), __jsx("div", {
-    className: "row",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 43
-    },
-    __self: this
-  }, __jsx("div", {
+  }, "Total Cases")))), __jsx("div", {
     className: "col-sm-4",
     __source: {
       fileName: _jsxFileName,
@@ -23135,14 +23107,14 @@ var Index = function Index(props) {
     },
     __self: this
   }, __jsx("div", {
-    className: "card mb-3 border-dark",
+    className: "card mb-3 border-success",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 45
     },
     __self: this
   }, __jsx("div", {
-    className: "card-body text-dark",
+    className: "card-body text-success",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 46
@@ -23156,537 +23128,191 @@ var Index = function Index(props) {
     },
     __self: this
   }, __jsx(react_number_format__WEBPACK_IMPORTED_MODULE_4__["default"], {
-    value: props.stats.local_deaths,
-    displayType: 'text',
+    value: props.stats.global_recovered,
+    displayType: "text",
     thousandSeparator: true,
-    prefix: '',
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 47
-    },
-    __self: this
-  })), __jsx("p", {
-    className: "card-text",
+    prefix: "",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 48
     },
     __self: this
-  }, "Deaths")))), __jsx("div", {
-    className: "col-sm-4",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 54
-    },
-    __self: this
-  }, __jsx("div", {
-    className: "card mb-3 border-danger",
+  })), __jsx("p", {
+    className: "card-text",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 55
-    },
-    __self: this
-  }, __jsx("div", {
-    className: "card-body text-danger",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 56
-    },
-    __self: this
-  }, __jsx("h3", {
-    className: "card-title",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 57
-    },
-    __self: this
-  }, __jsx(react_number_format__WEBPACK_IMPORTED_MODULE_4__["default"], {
-    value: props.stats.local_new_deaths,
-    displayType: 'text',
-    thousandSeparator: true,
-    prefix: '',
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 57
-    },
-    __self: this
-  })), __jsx("p", {
-    className: "card-text",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 58
-    },
-    __self: this
-  }, "New Deaths"))))), __jsx("h2", {
-    className: "my-3",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 67
-    },
-    __self: this
-  }, "Global"), __jsx("div", {
-    className: "row",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 68
-    },
-    __self: this
-  }, __jsx("div", {
-    className: "col-sm-4",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 69
-    },
-    __self: this
-  }, __jsx("div", {
-    className: "card mb-3 border-info",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 70
-    },
-    __self: this
-  }, __jsx("div", {
-    className: "card-body text-info",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 71
-    },
-    __self: this
-  }, __jsx("h3", {
-    className: "card-title",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 72
-    },
-    __self: this
-  }, __jsx(react_number_format__WEBPACK_IMPORTED_MODULE_4__["default"], {
-    value: props.stats.global_new_cases,
-    displayType: 'text',
-    thousandSeparator: true,
-    prefix: '',
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 72
-    },
-    __self: this
-  })), __jsx("p", {
-    className: "card-text",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 73
-    },
-    __self: this
-  }, "New Cases")))), __jsx("div", {
-    className: "col-sm-4",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 79
-    },
-    __self: this
-  }, __jsx("div", {
-    className: "card mb-3 border-secondary",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 80
-    },
-    __self: this
-  }, __jsx("div", {
-    className: "card-body text-secondary",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 81
-    },
-    __self: this
-  }, __jsx("h3", {
-    className: "card-title",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 82
-    },
-    __self: this
-  }, __jsx(react_number_format__WEBPACK_IMPORTED_MODULE_4__["default"], {
-    value: props.stats.global_total_cases,
-    displayType: 'text',
-    thousandSeparator: true,
-    prefix: '',
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 82
-    },
-    __self: this
-  })), __jsx("p", {
-    className: "card-text",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 83
-    },
-    __self: this
-  }, "Total Cases")))), __jsx("div", {
-    className: "col-sm-4",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 89
-    },
-    __self: this
-  }, __jsx("div", {
-    className: "card mb-3 border-success",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 90
-    },
-    __self: this
-  }, __jsx("div", {
-    className: "card-body text-success",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 91
-    },
-    __self: this
-  }, __jsx("h3", {
-    className: "card-title",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 92
-    },
-    __self: this
-  }, __jsx(react_number_format__WEBPACK_IMPORTED_MODULE_4__["default"], {
-    value: props.stats.global_recovered,
-    displayType: 'text',
-    thousandSeparator: true,
-    prefix: '',
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 92
-    },
-    __self: this
-  })), __jsx("p", {
-    className: "card-text",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 93
     },
     __self: this
   }, "Recovered"))))), __jsx("div", {
     className: "row",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 100
+      lineNumber: 60
     },
     __self: this
   }, __jsx("div", {
     className: "col-sm-4",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 101
+      lineNumber: 61
     },
     __self: this
   }, __jsx("div", {
     className: "card mb-3 border-dark",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 102
+      lineNumber: 62
     },
     __self: this
   }, __jsx("div", {
     className: "card-body text-dark",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 103
+      lineNumber: 63
     },
     __self: this
   }, __jsx("h3", {
     className: "card-title",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 104
+      lineNumber: 64
     },
     __self: this
   }, __jsx(react_number_format__WEBPACK_IMPORTED_MODULE_4__["default"], {
     value: props.stats.global_deaths,
-    displayType: 'text',
+    displayType: "text",
     thousandSeparator: true,
-    prefix: '',
+    prefix: "",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 104
+      lineNumber: 65
     },
     __self: this
   })), __jsx("p", {
     className: "card-text",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 105
+      lineNumber: 72
     },
     __self: this
   }, "Deaths")))), __jsx("div", {
     className: "col-sm-4",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 111
+      lineNumber: 76
     },
     __self: this
   }, __jsx("div", {
     className: "card mb-3 border-danger",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 112
+      lineNumber: 77
     },
     __self: this
   }, __jsx("div", {
     className: "card-body text-danger",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 113
+      lineNumber: 78
     },
     __self: this
   }, __jsx("h3", {
     className: "card-title",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 114
+      lineNumber: 79
     },
     __self: this
   }, __jsx(react_number_format__WEBPACK_IMPORTED_MODULE_4__["default"], {
     value: props.stats.global_new_deaths,
-    displayType: 'text',
+    displayType: "text",
     thousandSeparator: true,
-    prefix: '',
+    prefix: "",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 114
+      lineNumber: 80
     },
     __self: this
   })), __jsx("p", {
     className: "card-text",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 115
+      lineNumber: 87
     },
     __self: this
-  }, "New Deaths"))))), __jsx("h2", {
-    className: "my-3",
+  }, "New Deaths"))))), __jsx("p", {
+    className: "lead",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 123
+      lineNumber: 92
     },
     __self: this
-  }, "Hospital Data"), __jsx("div", {
-    className: "table-responsive",
+  }, "Reports by Country: "), __jsx("div", {
+    className: "btn-group mb-5",
+    role: "group",
+    "aria-label": "Reports by Country",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 124
+      lineNumber: 93
     },
     __self: this
-  }, __jsx("table", {
-    className: "table table-hover table-bordered",
+  }, __jsx(next_link__WEBPACK_IMPORTED_MODULE_5___default.a, {
+    href: "/italy",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 125
+      lineNumber: 98
     },
     __self: this
-  }, __jsx("thead", {
+  }, __jsx("a", {
+    className: "btn btn-secondary",
+    role: "button",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 126
+      lineNumber: 99
     },
     __self: this
-  }, __jsx("tr", {
+  }, "Italy")), __jsx(next_link__WEBPACK_IMPORTED_MODULE_5___default.a, {
+    href: "/japan",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 127
+      lineNumber: 103
     },
     __self: this
-  }, __jsx("th", {
-    rowSpan: "2",
+  }, __jsx("a", {
+    className: "btn btn-secondary",
+    role: "button",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 128
+      lineNumber: 104
     },
     __self: this
-  }, "Name of the Hospital"), __jsx("th", {
-    colSpan: "3",
+  }, "Japan")), __jsx(next_link__WEBPACK_IMPORTED_MODULE_5___default.a, {
+    href: "/sri-lanka",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 129
+      lineNumber: 108
     },
     __self: this
-  }, "Cumulative count of individuals on treatment/observation"), __jsx("th", {
-    colSpan: "3",
+  }, __jsx("a", {
+    className: "btn btn-secondary",
+    role: "button",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 132
+      lineNumber: 109
     },
     __self: this
-  }, "Count of individuals currently on treatment/observation")), __jsx("tr", {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 136
-    },
-    __self: this
-  }, __jsx("th", {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 137
-    },
-    __self: this
-  }, "Sri Lankans"), __jsx("th", {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 138
-    },
-    __self: this
-  }, "Foreigners"), __jsx("th", {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 139
-    },
-    __self: this
-  }, "Total"), __jsx("th", {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 140
-    },
-    __self: this
-  }, "Sri Lankans"), __jsx("th", {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 141
-    },
-    __self: this
-  }, "Foreigners"), __jsx("th", {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 142
-    },
-    __self: this
-  }, "Total"))), __jsx("tbody", {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 145
-    },
-    __self: this
-  }, props.stats.hospital_data.map(function (hospital_data) {
-    return __jsx("tr", {
-      key: hospital_data.id,
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 147
-      },
-      __self: this
-    }, __jsx("td", {
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 148
-      },
-      __self: this
-    }, hospital_data.hospital.name), __jsx("td", {
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 149
-      },
-      __self: this
-    }, __jsx(react_number_format__WEBPACK_IMPORTED_MODULE_4__["default"], {
-      value: hospital_data.cumulative_local,
-      displayType: 'text',
-      thousandSeparator: true,
-      prefix: '',
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 149
-      },
-      __self: this
-    })), __jsx("td", {
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 150
-      },
-      __self: this
-    }, __jsx(react_number_format__WEBPACK_IMPORTED_MODULE_4__["default"], {
-      value: hospital_data.cumulative_foreign,
-      displayType: 'text',
-      thousandSeparator: true,
-      prefix: '',
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 150
-      },
-      __self: this
-    })), __jsx("td", {
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 151
-      },
-      __self: this
-    }, __jsx(react_number_format__WEBPACK_IMPORTED_MODULE_4__["default"], {
-      value: hospital_data.cumulative_local + hospital_data.cumulative_foreign,
-      displayType: 'text',
-      thousandSeparator: true,
-      prefix: '',
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 151
-      },
-      __self: this
-    })), __jsx("td", {
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 152
-      },
-      __self: this
-    }, __jsx(react_number_format__WEBPACK_IMPORTED_MODULE_4__["default"], {
-      value: hospital_data.treatment_local,
-      displayType: 'text',
-      thousandSeparator: true,
-      prefix: '',
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 152
-      },
-      __self: this
-    })), __jsx("td", {
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 153
-      },
-      __self: this
-    }, __jsx(react_number_format__WEBPACK_IMPORTED_MODULE_4__["default"], {
-      value: hospital_data.treatment_foreign,
-      displayType: 'text',
-      thousandSeparator: true,
-      prefix: '',
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 153
-      },
-      __self: this
-    })), __jsx("td", {
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 154
-      },
-      __self: this
-    }, __jsx(react_number_format__WEBPACK_IMPORTED_MODULE_4__["default"], {
-      value: hospital_data.treatment_local + hospital_data.treatment_foreign,
-      displayType: 'text',
-      thousandSeparator: true,
-      prefix: '',
-      __source: {
-        fileName: _jsxFileName,
-        lineNumber: 154
-      },
-      __self: this
-    })));
-  })))), __jsx("footer", {
+  }, "Sri Lanka"))), __jsx("footer", {
     className: "footer mt-auto py-3",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 160
+      lineNumber: 114
     },
     __self: this
   }, __jsx("p", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 161
+      lineNumber: 115
     },
     __self: this
   }, "Data Source:", " ", __jsx("a", {
@@ -23694,32 +23320,32 @@ var Index = function Index(props) {
     target: "_blank",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 163
+      lineNumber: 117
     },
     __self: this
   }, "Health Promotion Bureau of Sri Lanka")), __jsx("ul", {
     className: "list-unstyled",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 167
+      lineNumber: 121
     },
     __self: this
   }, __jsx("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 168
+      lineNumber: 122
     },
     __self: this
   }, __jsx("strong", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 168
+      lineNumber: 123
     },
     __self: this
   }, "Important Links")), __jsx("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 169
+      lineNumber: 125
     },
     __self: this
   }, __jsx("a", {
@@ -23727,13 +23353,13 @@ var Index = function Index(props) {
     target: "_blank",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 169
+      lineNumber: 126
     },
     __self: this
   }, "The Department of Government Information")), __jsx("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 170
+      lineNumber: 130
     },
     __self: this
   }, __jsx("a", {
@@ -23741,14 +23367,14 @@ var Index = function Index(props) {
     target: "_blank",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 170
+      lineNumber: 131
     },
     __self: this
   }, "The Epidemiology Unit, Ministry of Health"))), __jsx("p", {
     className: "mt-3",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 173
+      lineNumber: 137
     },
     __self: this
   }, "Built and maintained by", " ", __jsx("a", {
@@ -23756,15 +23382,15 @@ var Index = function Index(props) {
     target: "_blank",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 175
+      lineNumber: 139
     },
     __self: this
-  }, "Yohan Dalpatadu"), " ", " |", " ", __jsx("a", {
+  }, "Yohan Dalpatadu"), " ", "|", " ", __jsx("a", {
     href: "https://github.com/yohandalpe/covid19-dashboard-nextjs",
     target: "_blank",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 179
+      lineNumber: 143
     },
     __self: this
   }, "GitHub Repository"), " ")));
@@ -23802,7 +23428,7 @@ Index.getInitialProps = function _callee() {
 
 /***/ }),
 
-/***/ 2:
+/***/ 1:
 /*!************************************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Fyohandalpatadu%2FProjects%2Fgithub%2Fcovid19-dashboard-nextjs%2Fpages%2Findex.js ***!
   \************************************************************************************************************************************************************/
@@ -23825,5 +23451,5 @@ module.exports = dll_82519ec661270f7f484f;
 
 /***/ })
 
-},[[2,"static/runtime/webpack.js"]]]);
+},[[1,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=index.js.map
