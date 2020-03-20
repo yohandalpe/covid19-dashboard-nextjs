@@ -31,6 +31,10 @@
     "/japan": [
       "static/runtime/webpack.js",
       "static/runtime/main.js"
+    ],
+    "/sri-lanka": [
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
     ]
   }
 }

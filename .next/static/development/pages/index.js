@@ -77,7 +77,7 @@ var Header = function Header() {
     },
     __self: this
   }, __jsx(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
-    href: "/",
+    href: "/sri-lanka",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 22
@@ -164,7 +164,7 @@ var Layout = function Layout(props) {
       lineNumber: 14
     },
     __self: this
-  }, "COVID-19 Situation Report - Sri Lanka"), __jsx("meta", {
+  }, "COVID-19 Situation Report"), __jsx("meta", {
     name: "viewport",
     content: "initial-scale=1.0, width=device-width",
     __source: {

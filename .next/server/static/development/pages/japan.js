@@ -88,7 +88,7 @@ module.exports =
 /******/
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 5);
+/******/ 	return __webpack_require__(__webpack_require__.s = 4);
 /******/ })
 /************************************************************************/
 /******/ ({
@@ -169,7 +169,7 @@ const Header = () => __jsx("nav", {
   },
   __self: undefined
 }, __jsx(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
-  href: "/",
+  href: "/sri-lanka",
   __source: {
     fileName: _jsxFileName,
     lineNumber: 22
@@ -255,7 +255,7 @@ const Layout = props => __jsx("div", {
     lineNumber: 14
   },
   __self: undefined
-}, "COVID-19 Situation Report - Sri Lanka"), __jsx("meta", {
+}, "COVID-19 Situation Report"), __jsx("meta", {
   name: "viewport",
   content: "initial-scale=1.0, width=device-width",
   __source: {
@@ -2615,7 +2615,7 @@ Index.getInitialProps = async function () {
 
 /***/ }),
 
-/***/ 5:
+/***/ 4:
 /*!******************************!*\
   !*** multi ./pages/japan.js ***!
   \******************************/
