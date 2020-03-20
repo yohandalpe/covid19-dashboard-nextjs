@@ -1,6 +1,6 @@
 # COVID-19 Situation Report
 
-A COVID-19 Coronavirus Situation Report for Sri Lanka and Japan built on Next.js
+A COVID-19 Coronavirus Situation Report for Sri Lanka, Italy and Japan built on Next.js
 
 ## Data Sources
 
@@ -8,6 +8,7 @@ A COVID-19 Coronavirus Situation Report for Sri Lanka and Japan built on Next.js
 
 - [Health Promotion Bureau of Sri Lanka](http://hpb.health.gov.lk/)
 - [Japan COVID-19 Coronavirus Tracker](https://covid19japan.com/)
+- [COVID-19 Italy - Situation Monitoring](https://github.com/pcm-dpc/COVID-19)
 
 **We need your help!** Please submit any information sources via the "Issues" tab above. Thank you!
 
@@ -38,3 +39,4 @@ You will now be able to access the site at http://localhost:3000/
 - [The Department of Government Information](https://www.dgi.gov.lk/)
 - [The Epidemiology Unit, Ministry of Health](http://epid.gov.lk/)
 - [Information from the Tokyo Metropolitan Infectious Disease Surveillance Center](http://idsc.tokyo-eiken.go.jp/diseases/2019-ncov/)
+- [Department of Civil Protection Website - Coronavirus Emergency: The National Response](http://www.protezionecivile.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus)
