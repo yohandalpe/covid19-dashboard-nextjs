@@ -22614,7 +22614,7 @@ Index.getInitialProps = function _callee() {
 
 /***/ }),
 
-/***/ 2:
+/***/ 4:
 /*!*****************************************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2Fjapan&absolutePagePath=%2FUsers%2Fyohandalpatadu%2FProjects%2Fgithub%2Fcovid19-dashboard-nextjs%2Fpages%2Fjapan.js ***!
   \*****************************************************************************************************************************************************************/
@@ -22637,5 +22637,5 @@ module.exports = dll_82519ec661270f7f484f;
 
 /***/ })
 
-},[[2,"static/runtime/webpack.js"]]]);
+},[[4,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=japan.js.map
