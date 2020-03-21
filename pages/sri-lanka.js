@@ -5,7 +5,7 @@ import NumberFormat from 'react-number-format';
 const Index = props => (
   <Layout>
     <h1>COVID-19 Situation Report in Sri Lanka</h1>
-    <h4>As at {props.stats.update_date_time}</h4>
+    <h4>As at {props.stats.update_date_time} IST</h4>
     <hr></hr>
     <h2 className="my-3">Total</h2>
     <div className="row">
