@@ -27,8 +27,8 @@ const Index = props => (
         </div>
       </div>
       <div className="col-sm-4">
-        <div className="card mb-3 border-secondary">
-          <div className="card-body text-secondary">
+        <div className="card mb-3 border-dark">
+          <div className="card-body text-dark">
             <h3 className="card-title">
               <NumberFormat
                 value={props.stats.global_total_cases}
