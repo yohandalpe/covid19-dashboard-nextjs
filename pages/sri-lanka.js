@@ -20,6 +20,16 @@ const Index = props => (
         </div>
       </div>
       <div className="col-sm-4">
+        <div className="card mb-3 border-danger">
+          <div className="card-body text-danger">
+            <h3 className="card-title"><NumberFormat value={props.stats.local_active_cases} displayType={'text'} thousandSeparator={true} prefix={''} /></h3>
+            <p className="card-text">
+              Active Cases
+            </p>
+          </div>
+        </div>
+      </div>
+      <div className="col-sm-4">
         <div className="card mb-3 border-secondary">
           <div className="card-body text-secondary">
             <h3 className="card-title"><NumberFormat value={props.stats.local_total_cases} displayType={'text'} thousandSeparator={true} prefix={''} /></h3>
@@ -29,7 +39,9 @@ const Index = props => (
           </div>
         </div>
       </div>
-      <div className="col-sm-4">
+    </div>
+    <div className="row">
+    <div className="col-sm-4">
         <div className="card mb-3 border-success">
           <div className="card-body text-success">
             <h3 className="card-title"><NumberFormat value={props.stats.local_recovered} displayType={'text'} thousandSeparator={true} prefix={''} /></h3>
@@ -39,11 +51,9 @@ const Index = props => (
           </div>
         </div>
       </div>
-    </div>
-    <div className="row">
       <div className="col-sm-4">
-        <div className="card mb-3 border-dark">
-          <div className="card-body text-dark">
+        <div className="card mb-3 border-danger">
+          <div className="card-body text-danger">
             <h3 className="card-title"><NumberFormat value={props.stats.local_deaths} displayType={'text'} thousandSeparator={true} prefix={''} /></h3>
             <p className="card-text">
               Deaths
@@ -52,8 +62,8 @@ const Index = props => (
         </div>
       </div>
       <div className="col-sm-4">
-        <div className="card mb-3 border-danger">
-          <div className="card-body text-danger">
+        <div className="card mb-3 border-dark">
+          <div className="card-body text-dark">
             <h3 className="card-title"><NumberFormat value={props.stats.local_new_deaths} displayType={'text'} thousandSeparator={true} prefix={''} /></h3>
             <p className="card-text">
               New Deaths
